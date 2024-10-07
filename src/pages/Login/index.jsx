@@ -39,7 +39,10 @@ function Login() {
     return (
         <div className="container">
             <div className="row">
-                <div className="col-md-4 offset-md-4">
+                <div className="mt-5 col-md-4 offset-md-4">
+                    <div className="mt-5 d-flex justify-content-center">
+                        <img src="https://th.bing.com/th/id/R.3c7f673d7255caba3fe8c9014d2ec2c4?rik=1YjvUp1VIYwFAA&pid=ImgRaw&r=0" width={'60%'} alt="" />
+                    </div>
                     <form className="mt-4">
                         <div>
                             {/* {JSON.stringify(dataForm)} <br /> */}
